@@ -1,10 +1,16 @@
+**Jobby App Output**:- prathapjobbyapp.ccbp.tech 
+
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
 
 ### Refer to videos below:
 
 
+https://github.com/user-attachments/assets/1fd047d9-874b-4149-abc8-8e97af1314a1
 
 **Failure View** <br/>
+
+
+https://github.com/user-attachments/assets/9f296cb8-0a60-4a05-922e-d605350c270c
 
 <div style="text-align: center;">
   <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
