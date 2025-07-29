@@ -1,4 +1,4 @@
-**Jobby App Output**:- prathapjobbyapp.ccbp.tech 
+**Jobby App Output**:- https://prathapjobbyapp.ccbp.tech
 
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
 
